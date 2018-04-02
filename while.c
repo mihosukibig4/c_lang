@@ -11,11 +11,11 @@ int main(void){
 
     }
 
-		int n = 0;
-		do{
-			printf("n: %d\n", n);
-			n++;
-		} while (n < 11);
+     int n = 0;
+     do{
+	printf("n: %d\n", n);
+	n++;
+    } while (n < 11);
 		
     return 0;
 }
