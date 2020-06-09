@@ -1,1 +1,1 @@
-# c_lang_lessons
+# c-lang-lessons
